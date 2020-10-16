@@ -1,6 +1,6 @@
-algoritmo "semnome"
-// Função :
-// Autor :
+algoritmo "Notas dos alunos"
+// Função : Calcular media das notas dos alunos e a media da sala
+// Autor : Beatiz
 // Data : 16/10/2020
 // Seção de Declarações
 var
