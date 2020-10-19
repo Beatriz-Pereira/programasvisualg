@@ -39,7 +39,7 @@ Escreval("                 RESULTADO")
 escreval("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*")
 para x de 1 ate 6 faca
    escreval("")
-   Escreval(" A modelo ",x," teve ",modelo[x]," votos,isso é:",pontuacao[x]" % do total de votos!")
+   Escreval(" A modelo ",x," teve ",modelo[x]," votos,isso é:",pontuacao[x]," % do total de votos!")
 fimpara
 
 
