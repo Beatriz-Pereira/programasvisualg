@@ -11,7 +11,7 @@ inicio
 //laço para preencher a Matriz
 para x de 1 ate 2 faca
    para y de 1 ate 3 faca
-      escreval ("Digite um valor para a Matriz: ", x,",",y)
+      escreval ("Digite um valor para a Matriz: [", x,",",y,"]")
       leia (matriz[x,y])
    fimpara
 fimpara
